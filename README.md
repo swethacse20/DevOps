@@ -1,4 +1,8 @@
-### Text Book: click on the link [DevOps]()
+### TEXT BOOKS: 
+ - 1. Joakim Verona. Practical Devops, Second Edition. Ingram short title; 2nd edition (2018). ISBN- 10: 1788392574 
+ - 2. Deepak Gaikwad, Viral Thakkar. DevOps Tools from Practitioner's Viewpoint. Wiley publications. ISBN: 9788126579952 
+### REFERENCE BOOK:
+ - 1. Len Bass, Ingo Weber, Liming Zhu. DevOps: A Software Architect's Perspective. Addison Wesley. 
 
 ## Unit: I Introduction<br> 
    > Agile development model<br>
