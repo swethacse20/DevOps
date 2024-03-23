@@ -5,6 +5,7 @@
  - 1. Len Bass, Ingo Weber, Liming Zhu. DevOps: A Software Architect's Perspective. Addison Wesley. 
 
 ## Unit: I Introduction<br> 
+ - Introduction
    > Agile development model<br>
    > DevOps, and ITIL<br>
    > DevOps process and Continuous Delivery<br>
@@ -21,6 +22,7 @@
    > Microservices, and the data tier<br>
    > DevOps, architecture, and resilience<br>
 ## Unit: III Introduction to project management<br>
+- Introduction to project management
    > The need for source code control<br>
    > The history of sourcecode management, Roles and code<br>
    > source code management system and migrations<br>
@@ -31,6 +33,7 @@
    > Gerrit, The pull request model<br>
    > GitLab<br>
  ## Unit: IV Integrating the system<br>
+ - Integrating the system
   > Build systems, Jenkins build server<br>
   > Managing build dependencies<br>
   > Jenkins plugins, and file system layout<br>
