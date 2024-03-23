@@ -1,7 +1,7 @@
-### TEXT BOOKS: 
+### Text Books: 
  - 1. Joakim Verona. Practical Devops, Second Edition. Ingram short title; 2nd edition (2018). ISBN- 10: 1788392574 
  - 2. Deepak Gaikwad, Viral Thakkar. DevOps Tools from Practitioner's Viewpoint. Wiley publications. ISBN: 9788126579952 
-### REFERENCE BOOK:
+### Reference Book:
  - 1. Len Bass, Ingo Weber, Liming Zhu. DevOps: A Software Architect's Perspective. Addison Wesley. 
 
 ## Unit: I Introduction<br> 
@@ -13,6 +13,7 @@
    > Scrum, Kanban<br>
    > delivery pipeline<br>
    > bottlenecks, examples<br>
+   
 ## Unit: II Software development models and DevOps<br>
  - DevOps Lifecycle for Business Agility<br>
    > DevOps, and Continuous Testing<br>
@@ -21,6 +22,7 @@
    > The separation of concerns, Handling database migrations<br>
    > Microservices, and the data tier<br>
    > DevOps, architecture, and resilience<br>
+   
 ## Unit: III Introduction to project management<br>
 - Introduction to project management
    > The need for source code control<br>
@@ -32,18 +34,20 @@
    > Docker intermission<br>
    > Gerrit, The pull request model<br>
    > GitLab<br>
+   
  ## Unit: IV Integrating the system<br>
  - Integrating the system
-  > Build systems, Jenkins build server<br>
-  > Managing build dependencies<br>
-  > Jenkins plugins, and file system layout<br>
-  > The host server, Build slaves<br>
-  > Software on the host<br>
-  > Triggers, Job chaining and build pipelines<br>
-  > Build servers and infrastructure as code<br>
-  > Building by dependency order<br>
-  > Build phases, Alternative build servers<br>
-  > Collating quality measures.<br>
+   > Build systems, Jenkins build server<br>
+   > Managing build dependencies<br>
+   > Jenkins plugins, and file system layout<br>
+   > The host server, Build slaves<br>
+   > Software on the host<br>
+   > Triggers, Job chaining and build pipelines<br>
+   > Build servers and infrastructure as code<br>
+   > Building by dependency order<br>
+   > Build phases, Alternative build servers<br>
+   > Collating quality measures<br>
+   
 ## Unit: V Testing Tools and automation<br>
 - Testing Tools and automation<br>
   > Various types of testing<br>
